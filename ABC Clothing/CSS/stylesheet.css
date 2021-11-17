@@ -1,0 +1,18 @@
+h1 {color:white; font-size: 50px;text-align:center;margin-top:10px ; font-family:monospace}
+#Brand {background-color: black;margin-left:auto; margin-right:auto; width:auto; display: block;}
+body{background-color: white;}
+footer{background-color:white; color:black;}
+.logo {display: block; margin-left: auto; margin-right: auto; max-width: 30%; height: auto;}
+#Clearance {text-align:center; color: red; font-size: 30pt; font-family:monospace; font-weight: bold;border: solid red 2px;background-color:cornsilk;margin-left: auto; margin-right: auto;}
+.img{display: table-cell;
+    vertical-align: top;}
+.img img {display: block; width: 100%;height: auto;}
+.row{display: table; border-collapse: collapse; width: 100%}
+.rowtable{display: table; border-collapse: collapse; width: 100%}
+.rowtext{position: relative; color: black; font-family: monospace;}
+.left {position: absolute; margin-top: 20%; left: 10%}
+.center {position:absolute; margin-top: 21.5%; left: 50%; transform: translate(-50%, -50%)}
+.right {position: absolute; margin-top: 20%; right: 10%}
+.subscribe{position: absolute; bottom: -50%; left: 10%;font-family: monospace;}
+.contact{position: absolute; bottom: -50%; right: 10%;font-family: monospace;}
+.careers{position:absolute; bottom: -51.5%; left: 50%; transform: translate(-50%, -50%);font-family: monospace;}
